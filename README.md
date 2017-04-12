@@ -1,3 +1,3 @@
 # WiFiX
 
-Android App to analyse Wifi Network strength combined with additional information related to the Wireless Access Point and connection history of the device.
+Android App to analyse Wifi Network strength which also displays additional information related to the Wireless Access Point along with  connection history of the device.
